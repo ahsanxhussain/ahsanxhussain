@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
-![USro](https://user-images.githubusercontent.com/85116043/141730479-28c41bc9-0220-4d94-97b7-6265df7a82a0.gif)
-
+<div style="padding-top:76.004%;position:relative;"><iframe src="https://gifer.com/embed/USro" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
