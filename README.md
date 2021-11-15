@@ -1,4 +1,4 @@
-![7zoR](https://user-images.githubusercontent.com/85116043/141776339-5836c045-3eca-4dde-a435-42cb3497eb7f.gif)
+![342z](https://user-images.githubusercontent.com/85116043/141776849-d518ae96-757f-41a5-b099-137561143fe3.gif)
 
   
 
